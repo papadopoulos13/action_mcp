@@ -1,3 +1,4 @@
 # notes.md
 
 Notes and usage details for action_mcp.
+- add a note about the defaults
