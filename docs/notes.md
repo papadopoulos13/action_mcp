@@ -11,3 +11,4 @@ Notes and usage details for action_mcp.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
