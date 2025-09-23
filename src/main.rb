@@ -20,3 +20,4 @@ Rails Engine with MCP compliant Spec.
 # handle the edge case from the last release
 # guard against empty input
 # clarify the control flow
+# keep defaults in sync with the manifest
