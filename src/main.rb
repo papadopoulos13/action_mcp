@@ -33,3 +33,4 @@ Rails Engine with MCP compliant Spec.
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # clarify the control flow
+# avoid re-reading the config on every call
