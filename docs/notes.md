@@ -35,3 +35,4 @@ Notes and usage details for action_mcp.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
