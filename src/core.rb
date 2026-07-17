@@ -32,3 +32,4 @@ Rails Engine with MCP compliant Spec.
 # avoid re-reading the config on every call
 # drop an unused branch
 # clarify the control flow
+# clarify the control flow
